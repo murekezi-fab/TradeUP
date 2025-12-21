@@ -101,6 +101,11 @@ USERS	1 → Many	ORDERS	One user places many orders	User_ID FK
 ORDERS	1 → Many	ORDER_ITEMS	One order contains many products	Order_ID FK
 ORDERS	1 → 1	PAYMENTS	Each order has one payment	Order_ID FK
 ORDERS	1 → 1	EXCHANGE_REQUESTS	Exchange orders only	Order_ID FK
+**OEM DIAGRAM**
+
+<img width="1226" height="607" alt="image" src="https://github.com/user-attachments/assets/e5e7eab6-a491-461e-bcd8-6d88c687238e" />
+
+
 3.2 Data Dictionary (Sample)
 USERS
 Attribute	Type	Constraints
