@@ -119,7 +119,9 @@ ORDERS	Pass
 ORDER_ITEMS	Pass
 EXCHANGE_REQUESTS	Pass
 PAYMENTS	Pass
+
 10-slide presentation
+
 https://docs.google.com/presentation/d/1U_rrXmvTb1aRGsPwSHsviF63V4S7OUmF/edit?usp=sharing&ouid=107996461880597582520&rtpof=true&sd=true
 
 Conclusion: All tables satisfy Third Normal Form (3NF).
