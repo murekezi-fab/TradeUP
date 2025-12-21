@@ -41,6 +41,10 @@ Technical Approach
 
 The system uses PL/SQL stored procedures, packages, and triggers to manage product exchanges, order processing, payment handling, and auditing in near real-time.
 
+TradeUP ER diagram
+
+<img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/571e987f-ae8c-4b73-9960-e290d0ec0205" />
+
 1.2 Database Schema Summary
 
 The TradeUp system is built on a relational database structure consisting of six core tables:
@@ -116,7 +120,7 @@ ORDER_ITEMS	Pass
 EXCHANGE_REQUESTS	Pass
 PAYMENTS	Pass
 
-📌 Conclusion: All tables satisfy Third Normal Form (3NF).
+Conclusion: All tables satisfy Third Normal Form (3NF).
 
 3.4 Assumptions
 
