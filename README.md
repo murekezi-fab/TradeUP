@@ -13,6 +13,10 @@ Traditional e-commerce platforms only support direct buying and selling, which e
 
 This limitation reduces affordability, slows inventory movement, and discourages sustainable product reuse.
 
+TradeUP ER diagram
+
+<img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/571e987f-ae8c-4b73-9960-e290d0ec0205" />
+
 1.1 Solution and Innovation
 
 TradeUp introduces a hybrid marketplace model that allows customers to:
@@ -41,9 +45,6 @@ Technical Approach
 
 The system uses PL/SQL stored procedures, packages, and triggers to manage product exchanges, order processing, payment handling, and auditing in near real-time.
 
-TradeUP ER diagram
-
-<img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/571e987f-ae8c-4b73-9960-e290d0ec0205" />
 
 1.2 Database Schema Summary
 
@@ -77,6 +78,10 @@ Payment processing
 Order confirmation
 
 (BPMN Diagram included in repository)
+
+BPM Diagram
+
+<img width="724" height="1080" alt="image" src="https://github.com/user-attachments/assets/f33c60fe-c29d-4482-bfa1-f0c97ec4fac6" />
 
 2.2 Explanation
 
@@ -166,6 +171,4 @@ Triggers creation
 <img width="601" height="401" alt="image" src="https://github.com/user-attachments/assets/a33bd84e-e057-4f3e-8f25-3faaa6646941" />
 
 
-BPM Diagram
 
-<img width="724" height="1080" alt="image" src="https://github.com/user-attachments/assets/f33c60fe-c29d-4482-bfa1-f0c97ec4fac6" />
