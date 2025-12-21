@@ -119,6 +119,8 @@ ORDERS	Pass
 ORDER_ITEMS	Pass
 EXCHANGE_REQUESTS	Pass
 PAYMENTS	Pass
+10-slide presentation
+https://docs.google.com/presentation/d/1U_rrXmvTb1aRGsPwSHsviF63V4S7OUmF/edit?usp=sharing&ouid=107996461880597582520&rtpof=true&sd=true
 
 Conclusion: All tables satisfy Third Normal Form (3NF).
 
@@ -142,7 +144,7 @@ mon_<StudentID>_fabrice_tradeup_db
 
 Executed as SYSDBA:
 
-CREATE PLUGGABLE DATABASE mon_XXXX_fabrice_tradeup_db
+CREATE PLUGGABLE DATABASE mon_fab_fabrice_tradeup_db
 ADMIN USER tradeup_admin IDENTIFIED BY fabr
 ROLES = (DBA);
 
