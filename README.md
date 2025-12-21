@@ -157,9 +157,10 @@ Application user tradeup_app was granted appropriate privileges.
 5. Table Implementation & Data Insertion (Phase V)
 Achievements
 
-All tables created with constraints
+Triggers creation
 
-Oracle sequences implemented for PKs
+<img width="601" height="401" alt="image" src="https://github.com/user-attachments/assets/a33bd84e-e057-4f3e-8f25-3faaa6646941" />
+
 
 BPM Diagram
 
